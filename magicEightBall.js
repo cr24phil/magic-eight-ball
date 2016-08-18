@@ -1,3 +1,8 @@
+// Magic Eight Ball Project
+
+// Create a variable named userQuestion
+
+
 var userQuestion = prompt("What is your question?");
 var randomNumber = Math.floor(Math.random() * 7);
 var eightBall = "";
