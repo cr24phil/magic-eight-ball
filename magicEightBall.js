@@ -3,14 +3,14 @@ var randomNumber = Math.floor(Math.random() * 7);
 var eightBall = "";
 
 switch(randomNumber) {
-	case 0:
-  	eightBall = "It is certain";
-   	break;
+  case 0:
+    eightBall = "It is certain";
+    break;
   case 1:
     eightBall = "It is decidely so";
     break;
   case 2:
-  	eightBall = "Reply hazy try again";
+    eightBall = "Reply hazy try again";
     break;
   case 3:
     eightBall = "Cannot predict now";
